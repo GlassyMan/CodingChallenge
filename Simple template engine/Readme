@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+der Umfang und das Aufbau des Template Engines ist in der Aufbage nicht genauer definiert. Ich habe deswegen versucht, eine Anwendung zu entwickeln, die ihre Aufgabe erfüllt und klein ist, aber gleichzeitig wiederverwendbar, erweiterbar und testbar ist.
+Die Anwendung ermöglicht sowohl einfaches Hinzufügen von neuen Template Engines für eine andere Art der Templates und ihrer Verarbeitung, als auch die andere Art der Spezialtags im Template selbst. 
+Auch ist die Anwendung gut testbar, da alle zusammenhängige Komponenten als eigene Klassen bzw. Instanzen der Klassen an die Anwendung übergeben werden können, und dadurch sich gut mocken lassen.
+
+Man kann gewiss noch vieles verfeinern und verbessern im Code. Ich wollte damit in einer absehbaren Zeit eine Rahmenanwendung schaffen, die an sich abgeschlossen ist, aber auch Verbesserungen und Erweiterungen zulässt.
+
+Start der Anwendung erfolgt im Anwendungsverzeichnis an der Konsole mit Befehl: ...>php index.php
+
+Mit freundlichen Grüßen
+Vadim Glusmann
